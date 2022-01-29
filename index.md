@@ -10,15 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# CommonAreas
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Common Areas helps you achieve visibility into your information, documentation and processes to drive your business. Founded by a team of experienced real estate executives who know property management, our software gives you a lens into your business, helps streamline your operations, easily share information and collaborate with your team, tenants, and vendors.
 
-## Header 2
+## IngramMicro
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Ingram Micro helps businesses fully realize the promise of technology™—helping them maximize the value of the technology that they make, sell or use. With its vast global infrastructure and focus on cloud, mobility, technology lifecycle, supply chain and technology solutions, Ingram Micro enables business partners to operate more efficiently and successfully in the markets they serve.
 
 ### Header 3
 
