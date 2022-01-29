@@ -1,24 +1,12 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# CommonAreas
 
-[Link to another page](./another-page.html).
+Common Areas simplifies and streamlines your property management operations to help you ensure quality standards are achieved, expectations are exceeded, and problems are resolved before they get out of hand.
+Inspecting your properties and equipment is key to keeping things running smoothly. With consistent and unified inspections throughout your company you can ensure your management standards are achieved.
 
-There should be whitespace between paragraphs.
+## IngramMicro
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Helps businesses fully realize the promise of technology™—helping them maximize the value of the technology that they make, sell or use. With its vast global infrastructure and focus on cloud, mobility, technology lifecycle, supply chain and technology solutions, Ingram Micro enables business partners to operate more efficiently and successfully in the markets they serve.
 
 ### Header 3
 
